@@ -1,0 +1,5 @@
+2017-05-13 15:37:53,945 ERROR m.App [main] com.sun.xml.ws.wsdl.parser.InaccessibleWSDLException: 2 counts of InaccessibleWSDLException.
+
+java.net.NoRouteToHostException: No route to host (Host unreachable)
+java.net.NoRouteToHostException: No route to host (Host unreachable)
+
